@@ -1,0 +1,7 @@
+clang from LLVM 18.1.8 Relase
+https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8
+https://github.com/llvm/llvm-project/releases/download/llvmorg-18.1.8/clang+llvm-18.1.8-x86_64-pc-windows-msvc.tar.xz
+
+Headers from include\clang-c in clang+llvm-18.1.8-x86_64-pc-windows-msvc.tar.xz
+clang.lib from lib\libclang.lib in clang+llvm-18.1.8-x86_64-pc-windows-msvc.tar.xz
+libclang.dll from bin\libclang.dll in clang+llvm-18.1.8-x86_64-pc-windows-msvc.tar.xz
